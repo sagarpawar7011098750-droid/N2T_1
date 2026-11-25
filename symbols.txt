@@ -1,0 +1,14 @@
+=== LABELS (ROM Addresses) ===
+MAIN_LOOP: 0
+SET_BLACK: 8
+DRAW_INIT: 10
+ROW_LOOP: 18
+COL_LOOP: 30
+NEXT_ROW: 45
+
+=== VARIABLES (RAM Addresses) ===
+color: 16
+rowAddr: 17
+rowsLeft: 18
+currWord: 19
+colsLeft: 20
